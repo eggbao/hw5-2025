@@ -1,5 +1,4 @@
 let video = document.querySelector(".video");
-document.querySelector("#volume").innerHTML = document.querySelector("#slider").value;
 
 window.addEventListener("load", function () {
 	console.log("Good job opening the window");
